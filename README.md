@@ -1,15 +1,13 @@
-Epic PHP!
-=========
+Epci PHP Episode 2
+==================
 
-This repository holds the screencast code, script and coding activities for
-episode 2 of the upcoming PHP series "Writing Epic PHP in one month".
+Well hallo there! This repository has moved!
 
-This episode is a work in progress.
+https://github.com/knpuniversity/php-beginner-series
 
-Contributing
-------------
+For the script, look in the [knpu/episode2](https://github.com/knpuniversity/php-beginner-series/tree/master/knpu/episode2) directory.
 
-Progress will be posted to this repository as we work. If you'd like to contribute,
-either open up an issue or (even better) fork the code and create a pull
-request. We want to create the best PHP tutorial for beginners, a job that's
-best solved by as many people as possible :).
+For the code, you can download it right on the site: https://knpuniversity.com/screencast/php-ep2
+
+<3 Your friends at KnpUniversity
+
