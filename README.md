@@ -1,4 +1,4 @@
-Epci PHP Episode 2
+Epic PHP Episode 2
 ==================
 
 Well hallo there! This repository has moved!
